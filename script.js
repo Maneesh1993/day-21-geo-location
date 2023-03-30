@@ -8,7 +8,7 @@ div.style.textAlign="center";
 var input=document.createElement("input");
 input.setAttribute("type","text");
 input.setAttribute("id","mail");
-input.setAttribute("placeholder","enter the email for validation")
+input.setAttribute("placeholder","just click button")
 // input.style.marginLeft="450px";
 // document.body.append(input);
 var button=document.createElement("button");
